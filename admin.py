@@ -30,14 +30,14 @@ def findAdmin():
 			print "OK => ",req_link
 
 def Credit():
-	Space(9); print "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
-	Space(9); print "   +-++-++--++-++-++-++++-++-++-+ +-++-++-++-++-++-++-++-++    "
-	Space(9); print "          The Next Level AdminFinder Version 1 (Beta)          "
-	Space(9); print "                         @bell_attcker                         "
-	Space(9); print "                        Coded By Mr.Bell                       "
-	Space(9); print "                       THE NEXT LEVEL TEAM                     "
-	Space(9); print "                 website:http://tnlofficial.6te.net/           "
-	Space(9); print "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+	Space(0); print "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+	Space(0); print "   +-++-++--++-++-++-++++-++-++-+ +-++-++-++-++-++-++-++-++    "
+	Space(0); print "          The Next Level AdminFinder Version 1 (Beta)          "
+	Space(0); print "                         @bell_attcker                         "
+	Space(0); print "                        Coded By Mr.Bell                       "
+	Space(0); print "                       THE NEXT LEVEL TEAM                     "
+	Space(0); print "                 website:http://tnlofficial.6te.net/           "
+	Space(0); print "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 	
 
 	
