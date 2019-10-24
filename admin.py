@@ -30,16 +30,29 @@ def findAdmin():
 			print "OK => ",req_link
 
 def Credit():
-	print "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
-	print "   +-++-++--++-++-++-++++-++-++-+ +-++-++-++-++-++-++-++-++    "
-	print "          The Next Level AdminFinder Version 1 (Beta)          "
-	print"                          @bell_attcker                         "
-	print "                        Coded By Mr.Bell                       "
-	print "                       THE NEXT LEVEL TEAM                     "
-	print "                 website:http://tnlofficial.6te.net/           "
-	print "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
-	
-
+	print(''' \033[96m	
+         _,met$$$$$gg.           
+      ,g$$$$$$$$$$$$$$$P.        
+    ,g$$P""       """Y$$.".      
+   ,$$P'              `$$$.      
+  ',$$P       ,ggs.     `$$b:    
+  `d$$'     ,$P"'   .    $$$     
+   $$P      d$'     ,    $$P     
+   $$:      $$.   -    ,d$$'     
+   $$\;      Y$b._   _,d$P'      
+   Y$$.    `.`"Y$$$$P"'          
+   `$$b      "-.__
+    `Y$$
+     `Y$$.
+       `$$b.
+         `Y$$b.
+            `"Y$b._
+                `""""
+|Version   : V.1(Beta)      |
+|Team      : THE NEXT LEVEL |
+|Create    : Mr.Bell        |
+|     ADMIN FINDER TOOLS    |
+############################## \n \033[91m''')
 	
 Credit()
 findAdmin()
