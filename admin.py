@@ -50,7 +50,7 @@ def Credit():
                 `""""
 |Version   : V.1(Beta)      |
 |Team      : THE NEXT LEVEL |
-|Create    : Mr.Bell        |
+|Coded by  : Mr.Bell        |
 |     ADMIN FINDER TOOLS    |
 ############################## \n \033[91m''')
 	
